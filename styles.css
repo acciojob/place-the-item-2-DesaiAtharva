@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+	
+}
+
+.box1{
+	width:100px;
+	height:100px;
+	background-color:red;
+	font-size:30px;
+}
+
+.box3{
+	width:100px;
+	height:100px;
+	background-color:green;
+	font-size:30px;
+}
+
+.box2{
+	width:100px;
+	height:100px;
+	background-color:blue;
+	font-size:30px;
+}
